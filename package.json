@@ -1,0 +1,20 @@
+{
+  "name": "basic-node-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonahBerlyne/basic-node-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonahBerlyne/basic-node-site/issues"
+  },
+  "homepage": "https://github.com/jonahBerlyne/basic-node-site#readme"
+}
